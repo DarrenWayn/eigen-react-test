@@ -1,3 +1,13 @@
+![image](https://user-images.githubusercontent.com/22322944/196908320-3715c389-1a91-4243-b176-63ba969a08c8.png)
+
+This is a simple news project using:
+- react-query
+- Typescript
+- ant design
+- https://newsapi.org/ 
+
+To make this work enter your own API_KEY from https://newsapi.org/ in utils/fetcher.ts file
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

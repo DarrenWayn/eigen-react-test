@@ -8,6 +8,8 @@ This is a simple news project using:
 
 To make this work enter your own API_KEY from https://newsapi.org/ in utils/fetcher.ts file
 
+Note: API from developer plan only works for localhost/development
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
